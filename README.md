@@ -13,6 +13,7 @@ docker-compose.yaml文件编写
 docker-compose启停
 docker image推送
 docker register配置
+dockerfile编写
 
 docker version
 /etc/docker/daemon.json的信息展示
