@@ -12,4 +12,7 @@
   容器占用的资源
   docker-compose.yaml文件编写
   docker-compose启停
+  
+  /etc/docker/daemon.json的信息展示
+  机器信息（内存、磁盘、CPU、网卡）
   ```
