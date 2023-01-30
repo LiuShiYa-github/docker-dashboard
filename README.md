@@ -1,6 +1,7 @@
 # docker-dashboard
 
 
+```text
 功能规划：
   容器的创建&启动&删除
   镜像的导入&启动&删除
@@ -11,3 +12,4 @@
   容器占用的资源
   docker-compose.yaml文件编写
   docker-compose启停
+  ```
