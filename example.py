@@ -3,6 +3,10 @@
 import docker
 
 client = docker.DockerClient(base_url='tcp://10.0.0.30:2375')
+
+"""
+获取docker信息
+"""
 # print(client.info())
 # print(client.version())
 # print(client.ping())
